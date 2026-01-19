@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-L-Aqua
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-L-Aqua
+MetacityTheme=Mint-L-Aqua
+IconTheme=Mint-L-Aqua
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

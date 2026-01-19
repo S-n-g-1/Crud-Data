@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-L-Dark-Purple
+Comment=A dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-L-Dark-Purple
+MetacityTheme=Mint-L-Dark-Purple
+IconTheme=Mint-L-Purple
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

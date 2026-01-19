@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-L-Darker-Pink
+Comment=A flat theme with transparent elements and dark menu and titlebars
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-L-Darker-Pink
+MetacityTheme=Mint-L-Dark-Pink
+IconTheme=Mint-L-Pink
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
